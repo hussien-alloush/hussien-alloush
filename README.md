@@ -1,37 +1,22 @@
-<h1 align="center">Hi 👋 I'm Hussien Alloush</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api
-  ?type=waving
-  &color=0:4facfe,100:00f2fe
-  &height=200
-  &section=header
-  &text=Software%20Engineer
-  &fontSize=42
-  &fontColor=ffffff
-  &desc=Building%20the%20Future%2C%20One%20Line%20at%20a%20Time
-  &descSize=18
-  &descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Software%20Engineer&fontSize=42&fontColor=ffffff&desc=Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descSize=18&descAlignY=70" />
+</p>
+
+<p align="center">
+  Software Engineer | Cybersecurity Enthusiast
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hussien-allouch-6b2169230">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:hussienalloush17@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://github.com/hussien-alloush">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-Software Engineer | Cybersecurity Enthusiast
-</p>
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00F7D0&center=true&vCenter=true&width=600&lines=Secure+Coding;Cybersecurity+Focused;Always+Learning)
 
 ---
 
@@ -59,7 +44,7 @@ Software Engineer | Cybersecurity Enthusiast
 
 ## 🔗 Connect With Me
 📧 **Email:** hussienalloush17@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/hussien-allouch-6b2169230
+💼 **LinkedIn:** https://www.linkedin.com/in/hussien-allouch-6b2169230  
 
 ---
 
