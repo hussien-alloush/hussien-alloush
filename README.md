@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋 I'm Hussien Alloush</h1>
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api
@@ -14,6 +13,8 @@
       &descSize=18"
   />
 </p>
+
+<h1 align="center">Hi 👋 I'm Hussien Alloush</h1>
 
 <p align="center">
   Software Engineer | Cybersecurity Enthusiast
@@ -41,7 +42,11 @@ class SeniorSoftwareEngineer:
         self.name = "Hussien Alloush"
         self.location = "Beirut, Lebanon 🇱🇧"
 
-        self.languages = ["Python", "PHP", "Laravel", "Java", "HTML", "CSS", "JS"]
+        self.languages = [
+            "Python", "PHP", "Laravel",
+            "Java", "HTML", "CSS", "JavaScript"
+        ]
+
         self.currently_learning = [
             "Advanced Python",
             "Secure Coding Practices",
