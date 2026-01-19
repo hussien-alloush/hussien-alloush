@@ -4,12 +4,13 @@
 </div> <div align="center"> <a href="https://www.linkedin.com/in/hussien-allouch-6b2169230"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:hussienalloush17@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/hussien-alloush"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <br/> <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" /> </div>
 🧠 About Me
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Hussien Alloush"
         self.location = "Beirut, Lebanon 🇱🇧"
 
-        self.roles = [
+      self.roles = [
             "Software Engineer",
             "Cybersecurity Enthusiast"
         ]
