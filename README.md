@@ -19,7 +19,6 @@
   Software Engineer | Cybersecurity Enthusiast
 </p>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/hussien-allouch-6b2169230">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -41,15 +40,14 @@ class SeniorSoftwareEngineer:
     def __init__(self):
         self.name = "Hussien Alloush"
         self.location = "Beirut, Lebanon 🇱🇧"
-       
-        
+
         self.languages = ["Python", "PHP", "Laravel", "Java", "HTML", "CSS", "JS"]
         self.currently_learning = [
             "Advanced Python",
             "Secure Coding Practices",
             "Microservices Patterns"
         ]
-    
+
     def get_daily_routine(self):
         return [
             "☕ Coffee.brew()",
@@ -58,35 +56,6 @@ class SeniorSoftwareEngineer:
             "🚀 Features.deploy()",
             "🔄 Repeat()"
         ]
-    
+
     def get_fun_fact(self):
         return "I can debug code faster than I can explain what it does! 🎯"
-
-🎨 Frontend Magic
-<h2 align="center">🎨 Frontend Magic</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma" />
-</p>
-
-⚙️ Backend Power
-<h2 align="center">⚙️ Backend Power</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,java,nodejs,express,nginx" />
-</p>
-
-🗄️ Database & Cloud
-<h2 align="center">🗄️ Database & Cloud</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,aws,docker" />
-</p>
-
-🛠️ Tools & More
-<h2 align="center">🛠️ Tools & More</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
-</p>
-
