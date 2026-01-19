@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋 I'm Hussien Alloush</h1>
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7D0,100:0080FF&height=180&section=header&text=Software%20Engineer&fontSize=40&fontColor=ffffff&desc=Cybersecurity%20Focused%20Developer&descAlignY=65" />
+</p>
+
+<p align="center">
 Software Engineer | Cybersecurity Enthusiast
 </p>
 
