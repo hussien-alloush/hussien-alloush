@@ -27,8 +27,8 @@
 class SeniorSoftwareEngineer:
     def __init__(self):
         self.name = "Hussien Alloush"
-        self.location = "Your City, Country"
-        self.company = "Your Company Name"
+        self.location = "Beirut, Lebanon 🇱🇧"
+       
         
         self.languages = ["Python", "PHP", "Laravel", "Java", "HTML", "CSS", "JS"]
         self.currently_learning = [
