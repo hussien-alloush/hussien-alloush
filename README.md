@@ -23,11 +23,12 @@
 
 ## 🔐 About Me
 
-
+```python
 class SeniorSoftwareEngineer:
     def __init__(self):
         self.name = "Hussien Alloush"
-        self.location = "Beirut, Lebanon 🇱🇧"
+        self.location = "Your City, Country"
+        self.company = "Your Company Name"
         
         self.languages = ["Python", "PHP", "Laravel", "Java", "HTML", "CSS", "JS"]
         self.currently_learning = [
@@ -47,11 +48,3 @@ class SeniorSoftwareEngineer:
     
     def get_fun_fact(self):
         return "I can debug code faster than I can explain what it does! 🎯"
-
-
-# Example usage
-hussien = SoftwareEngineer()
-print(hussien.name)
-print(hussien.get_daily_routine())
-print(hussien.get_fun_fact())
-
