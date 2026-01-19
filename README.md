@@ -1,11 +1,26 @@
 <h1 align="center">Hi 👋 I'm Hussien Alloush</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Software%20Engineer&fontSize=42&fontColor=ffffff&desc=Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descSize=18&descAlignY=70" />
+  <img 
+    src="https://capsule-render.vercel.app/api
+      ?type=waving
+      &height=200
+      &color=gradient
+      &text=Software%20Engineer
+      &fontSize=44
+      &fontColor=ffffff
+      &fontAlignY=38
+      &desc=Building%20the%20Future,%20One%20Line%20at%20a%20Time
+      &descAlignY=60
+      &descSize=18"
+  />
 </p>
+
+<h1 align="center">Hi 👋 I'm Hussien Alloush</h1>
 
 <p align="center">
   Software Engineer | Cybersecurity Enthusiast
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hussien-allouch-6b2169230">
@@ -48,3 +63,32 @@ class SeniorSoftwareEngineer:
     
     def get_fun_fact(self):
         return "I can debug code faster than I can explain what it does! 🎯"
+
+🎨 Frontend Magic
+<h2 align="center">🎨 Frontend Magic</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma" />
+</p>
+
+⚙️ Backend Power
+<h2 align="center">⚙️ Backend Power</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,java,nodejs,express,nginx" />
+</p>
+
+🗄️ Database & Cloud
+<h2 align="center">🗄️ Database & Cloud</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,aws,docker" />
+</p>
+
+🛠️ Tools & More
+<h2 align="center">🛠️ Tools & More</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+</p>
+
