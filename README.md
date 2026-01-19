@@ -15,8 +15,6 @@
   />
 </p>
 
-<h1 align="center">Hi 👋 I'm Hussien Alloush</h1>
-
 <p align="center">
   Software Engineer | Cybersecurity Enthusiast
 </p>
