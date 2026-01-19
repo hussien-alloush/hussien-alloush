@@ -4,15 +4,24 @@
 </div> <div align="center"> <a href="https://www.linkedin.com/in/hussien-allouch-6b2169230"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:hussienalloush17@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/hussien-alloush"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <br/> <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" /> </div>
 🧠 About Me
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-class SeniorSoftwareEngineer:
+class SoftwareEngineer:
     def __init__(self):
         self.name = "Hussien Alloush"
         self.location = "Beirut, Lebanon 🇱🇧"
 
+        self.roles = [
+            "Software Engineer",
+            "Cybersecurity Enthusiast"
+        ]
+
         self.languages = [
-            "Python", "PHP", "Laravel",
-            "Java", "JavaScript",
-            "HTML", "CSS"
+            "Python",
+            "PHP",
+            "Laravel",
+            "Java",
+            "JavaScript",
+            "HTML",
+            "CSS"
         ]
 
         self.currently_learning = [
@@ -21,17 +30,25 @@ class SeniorSoftwareEngineer:
             "Microservices Architecture"
         ]
 
+        self.interests = [
+            "Backend Development",
+            "API Design",
+            "Application Security",
+            "System Architecture"
+        ]
+
     def daily_routine(self):
         return [
             "☕ Coffee.brew()",
             "💻 Code.write()",
-            "🛡️ Security.audit()",
-            "🚀 Deploy.features()",
+            "🛡️ Security.review()",
+            "🚀 Features.deploy()",
             "🔄 Repeat()"
         ]
 
     def fun_fact(self):
-        return "I break systems to make them stronger 🔐"
+        return "I enjoy breaking systems to understand how to secure them 🔐"
+
 
 <br clear="both"/>
 🛠 Tech Arsenal
