@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/>  
-# Hey there! I'm **Hussien Alloush**
+Hey there! I'm **Hussien Alloush**
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Software%20Engineer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Building%20Secure%20and%20Scalable%20Systems&descSize=20&descAlignY=55" />
@@ -60,6 +60,7 @@ class SeniorSoftwareEngineer:
 
     def fun_fact(self):
         return "I break systems to make them stronger 🔐"
+```md
 <br clear="both"/>
 🛠 Tech Arsenal
 🎨 Frontend
