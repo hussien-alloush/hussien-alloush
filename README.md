@@ -1,13 +1,14 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/> Hey there! I'm Hussien Alloush
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/>  
-# Hey there! I'm **Hussien Alloush**
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/> Hey there! I'm Hussien Alloush
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Software%20Engineer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Building%20Secure%20and%20Scalable%20Systems&descSize=20&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Senior%20Software%20Engineer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Building%20Secure%20and%20Scalable%20Systems&descSize=20&descAlignY=55"/>
 </div>
 
----
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+%26+Security+Engineer;API+Design+%26+System+Architecture;Python+%7C+Laravel+%7C+Java;Secure+Code+Enthusiast)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hussien-allouch-6b2169230">
@@ -21,7 +22,7 @@
   </a>
 </div>
 
----
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
@@ -31,7 +32,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```python
 class SeniorSoftwareEngineer:
@@ -62,7 +63,7 @@ class SeniorSoftwareEngineer:
 
     def fun_fact(self):
         return "I break systems to make them stronger 🔐"
----
+<br clear="both"/>
 🛠 Tech Arsenal
 🎨 Frontend
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind&theme=dark"/> </div>
