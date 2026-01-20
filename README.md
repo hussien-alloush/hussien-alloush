@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/> Hey there! I'm Hussien Alloush
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Senior%20Software%20Engineer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Building%20Secure%20and%20Scalable%20Systems&descSize=20&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Software%20Engineer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Building%20Secure%20and%20Scalable%20Systems&descSize=20&descAlignY=55"/>
 </div>
 
 <div align="center">
@@ -63,6 +63,8 @@ class SeniorSoftwareEngineer:
 
     def fun_fact(self):
         return "I break systems to make them stronger 🔐"
+```
+
 <br clear="both"/>
 🛠 Tech Arsenal
 🎨 Frontend
@@ -80,3 +82,4 @@ class SeniorSoftwareEngineer:
 🤝 Let’s Connect
 <div align="center"> <a href="https://github.com/hussien-alloush"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/hussien-allouch-6b2169230"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:hussienalloush17@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/> </a> </div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=gradient"/> <br/> ⚡ <i>Secure code today, safe systems tomorrow.</i> ⚡ </div> ```
+
