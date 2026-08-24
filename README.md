@@ -184,31 +184,7 @@ The application works with uploaded fitness plans and includes AI-powered image 
 
 ---
 
-# 🎓 Education
 
-### Lebanese International University — LIU
-
-**Bachelor of Science in Computer Science**
-
-🎓 Graduated **2024**
-
-My academic background provided foundations in:
-
-`Data Structures & Algorithms` · `Web Development` · `Database Systems` · `Computer Networks` · `Object-Oriented Programming` · `Operating Systems` · `Artificial Intelligence` · `Software Engineering`
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hussien-alloush&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussien-alloush&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
-
-</div>
-
----
 
 # 🎯 What I Build
 
