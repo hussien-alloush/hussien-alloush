@@ -1,85 +1,267 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/> Hey there! I'm Hussien Alloush
+# 👋 Hey there! I'm Hussien Alloush
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Software%20Engineer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Building%20Secure%20and%20Scalable%20Systems&descSize=20&descAlignY=55"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hussien%20Alloush&fontSize=48&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%C2%B7%20Web%20%2B%20AI&descSize=20&descAlignY=55"/>
+
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+%26+Security+Engineer;API+Design+%26+System+Architecture;Python+%7C+Laravel+%7C+Java;Secure+Code+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=25\&duration=3000\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=750\&lines=Full-Stack+Developer+%C2%B7+Web+%2B+AI;Building+Real+Products+That+Ship;Microservices+%7C+Real-Time+Systems;RAG+%7C+AI-Integrated+Applications)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hussien-allouch-6b2169230">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:hussienalloush17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/hussien-alloush">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://hussien-alloush.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+<a href="https://github.com/hussien-alloush">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/hussien-alloush">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:hussienalloush17@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+
+### 🟢 Open to new opportunities
+
+📍 **Beirut, Lebanon**
+
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Hussien Alloush"
-        self.location = "Beirut, Lebanon 🇱🇧"
+I'm a **Software Engineer & Full-Stack Developer** focused on building real products, reliable systems, and practical AI integrations.
 
-        self.languages = [
-            "Python", "PHP", "Laravel",
-            "Java", "JavaScript",
-            "HTML", "CSS"
-        ]
+My experience spans **full-stack web development, databases, microservices, real-time systems, and AI-integrated applications**.
 
-        self.currently_learning = [
-            "Advanced Python",
-            "Secure Coding Practices",
-            "Microservices Architecture"
-        ]
+I enjoy turning complex ideas into clean, working solutions — from **event-driven microservice backends** to **LLM-powered applications and RAG pipelines**.
 
-    def daily_routine(self):
-        return [
-            "☕ Coffee.brew()",
-            "💻 Code.write()",
-            "🛡️ Security.audit()",
-            "🚀 Deploy.features()",
-            "🔄 Repeat()"
-        ]
+My goal is simple:
 
-    def fun_fact(self):
-        return "I break systems to make them stronger 🔐"
-```
+> **Build software that is reliable, useful, scalable, and well-documented.**
+
+### 🔭 Currently Exploring
+
+* Microservices Architecture
+* RAG Pipelines
+* AI-Integrated Systems
+* Scalable Full-Stack Applications
+* Real-Time Systems
 
 <br clear="both"/>
-🛠 Tech Arsenal
-🎨 Frontend
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind&theme=dark"/> </div>
-⚙️ Backend
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,php,laravel,java,nodejs,express,fastapi&theme=dark"/> </div>
-🗄 Databases & Cloud
-<div align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,aws,firebase&theme=dark"/> </div>
-🔐 Security & Tools
-<div align="center"> <img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,postman,vscode&theme=dark"/> </div>
-📊 GitHub Stats
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hussien-alloush&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussien-alloush&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/> </div>
-🎯 Current Focus
-<div align="center"> <table> <tr> <td align="center" width="50%"> 🔐 <b>Security</b><br/> Secure backend systems & APIs </td> <td align="center" width="50%"> 🚀 <b>Growth</b><br/> Advanced Python & Architecture </td> </tr> </table> </div>
-🤝 Let’s Connect
-<div align="center"> <a href="https://github.com/hussien-alloush"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/hussien-allouch-6b2169230"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:hussienalloush17@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=gradient"/> <br/> ⚡ <i>Secure code today, safe systems tomorrow.</i> ⚡ </div> ```
 
+---
+
+# 🛠️ Tech Stack
+
+## 🎨 Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript&theme=dark"/>
+
+</div>
+
+<br/>
+
+## ⚙️ Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark"/>
+
+</div>
+
+<br/>
+
+## 🗄️ Databases & Architecture
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 🤖 AI
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-412991?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+## 🔧 Engineering & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 Eccomerce
+
+**Microservices E-Commerce Platform**
+
+Full-stack e-commerce application built around a **microservices architecture**, with five services communicating through **Apache Kafka**, dual databases, and Stripe payment integration.
+
+**Tech Stack**
+
+`Next.js` · `Kafka` · `PostgreSQL` · `Microservices` · `Stripe`
+
+---
+
+## 💬 ChatCord
+
+**Real-Time Chat Application**
+
+A real-time communication platform featuring developer-themed rooms, private messaging, image sharing, typing indicators, and read receipts.
+
+**Tech Stack**
+
+`Node.js` · `Socket.io` · `MongoDB` · `JavaScript`
+
+---
+
+## 🍳 AI Recipe Generator
+
+An AI-powered application that generates recipes based on ingredients already available in your pantry.
+
+The application can also:
+
+* Track ingredient expiry
+* Plan meals
+* Generate recipes with Gemini AI
+* Automatically build shopping lists
+
+**Tech Stack**
+
+`React 19` · `Express 5` · `Gemini AI`
+
+---
+
+## 🏋️ AI Personal Trainer
+
+A conversational AI fitness assistant using a **Retrieval-Augmented Generation (RAG)** pipeline.
+
+The application works with uploaded fitness plans and includes AI-powered image analysis capabilities.
+
+**Tech Stack**
+
+`FastAPI` · `Python` · `RAG` · `Groq`
+
+---
+
+# 🎓 Education
+
+### Lebanese International University — LIU
+
+**Bachelor of Science in Computer Science**
+
+🎓 Graduated **2024**
+
+My academic background provided foundations in:
+
+`Data Structures & Algorithms` · `Web Development` · `Database Systems` · `Computer Networks` · `Object-Oriented Programming` · `Operating Systems` · `Artificial Intelligence` · `Software Engineering`
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hussien-alloush&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussien-alloush&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+
+</div>
+
+---
+
+# 🎯 What I Build
+
+<div align="center">
+
+|  🌐 Full-Stack  |      🤖 AI      |    ⚡ Real-Time    | 🏗️ Architecture |
+| :-------------: | :-------------: | :---------------: | :--------------: |
+| Modern web apps |   RAG systems   | Live applications |   Microservices  |
+| React / Next.js | LLM integration |     Socket.io     |       Kafka      |
+|  Node / FastAPI |  Gemini / Groq  |     Messaging     |    SQL / NoSQL   |
+
+</div>
+
+---
+
+# 🤝 Let's Talk
+
+<div align="center">
+
+### You bring the idea. I bring the engineering.
+
+<br/>
+
+<a href="https://hussien-alloush.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-00D9FF?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/hussien-alloush">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hussien-alloush">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hussienalloush17@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+📍 **Beirut, Lebanon**
+
+🟢 **Open to opportunities**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,12,20"/>
+
+### ⚡ Building real products. Reliable systems. Practical AI.
+
+</div>
